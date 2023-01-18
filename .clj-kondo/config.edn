@@ -1,3 +1,5 @@
-{:lint-as
+{:linters
+ {:type-mismatch {:level :error}}
+ :lint-as
  {malli/defn clj-kondo.lint-as/def-catch-all}}
 
