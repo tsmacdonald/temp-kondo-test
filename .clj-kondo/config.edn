@@ -1,0 +1,3 @@
+{:lint-as
+ {malli/defn clj-kondo.lint-as/def-catch-all}}
+
